@@ -1,5 +1,5 @@
 package com.cssl.oop.demo01;
-
+//宠物类
 public class Pet {
     private String name = "无名氏";
     private int health = 100;
